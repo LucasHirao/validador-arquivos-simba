@@ -1,0 +1,2 @@
+Erro no arquivo: TITULARES, linha: 1, erro: O titular de conta investigada deve ter os seguintes dados preenchidos: TIPO_PESSOA, CPF_CNPJ, NOME_PESSOA, NOME_DOC_IDENTIFICACAO, NUMERO_DOC_IDENTIFICACAO, ENDERECO_LOGRADOURO, CIDADE, UF, PAIS, CEP, TELEFONE_PESSOA
+#CONTEUDO AGENCIAS=true,CONTAS=true,TITULARES=false

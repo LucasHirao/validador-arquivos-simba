@@ -1,0 +1,2 @@
+Erro no arquivo: EXTRATO, linha: 2, erro: Lançamento em EXTRATO sem correspondente em ORIGEM_DESTINO. CODIGO_CHAVE_EXTRATO: 2
+#CONTEUDO AGENCIAS=true,CONTAS=true,TITULARES=true,EXTRATO=false

@@ -1,0 +1,2 @@
+Erro no arquivo: ORIGEM_DESTINO, linha: 3, erro: É obrigatória a identificação do depositante/favorecido de transações em espécie, campo NOME_PESSOA_OD. Caso o depositante/favorecido recusou se identificar, o campo OBSERVACAO_OD deve conter o seguinte valor: '099 - NEGATIVA DE IDENTIFICACAO DO PORTADOR'.
+#CONTEUDO AGENCIAS=true,CONTAS=true,TITULARES=true,EXTRATO=true,ORIGEM_DESTINO=false

@@ -1,0 +1,2 @@
+Erro no arquivo: AGENCIAS, linha: 1, erro: DATA_FECHAMENTO_AGENCIA informada, mas não há DATA_ABERTURA_AGENCIA.
+#CONTEUDO null

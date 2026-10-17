@@ -1,0 +1,2 @@
+Erro no arquivo: AGENCIAS, linha: 1, erro: A DATA_FECHAMENTO_AGENCIA (00000000) é inválida ou o ano é anterior a 1900.
+#CONTEUDO null

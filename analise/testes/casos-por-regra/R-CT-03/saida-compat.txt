@@ -1,0 +1,2 @@
+Erro no arquivo: CONTAS, linha: 2, erro: Conta sem registro correspondente em Titulares. NUMERO_BANCO: 001, NUMERO_AGENCIA: 0001, NUMERO_CONTA: 777, TIPO_CONTA: 1.
+#CONTEUDO AGENCIAS=true,CONTAS=false

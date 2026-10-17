@@ -10,8 +10,11 @@
 - **Botão "Continuar" fica habilitado mesmo com erros** (E-11) — corrigida leitura anterior errada.
 - Cobertura JaCoCo do original (rules+carga+validacao): 63,0% → 82,9%; a cobertura achou 2 divergências reais (R-CT-02 `null`, R-TI-04 linha −1), já corrigidas.
 
+## Mapa de cobertura por regra
+- 71 regras observadas no original em 2.940 cenários, 0 divergências reais; casos mínimos em `analise/testes/casos-por-regra/`; locale `en_US` sem diferença. Ver `docs/MAPA_COBERTURA_REGRAS.md`.
+
 ## Pendências
-- Locale `en_US`; unidade dos valores (D3); termos de uso/licença (D11) NÃO verificados; dados reais; se o servidor aceita envio com erros (D15).
+- Unidade dos valores (D3); termos de uso/licença (D11): instalador e JARs do MPF não trazem EULA, mas a questão jurídica segue NÃO verificada; dados reais; se o servidor aceita envio com erros (D15).
 
 ## Decisões técnicas
 - Execução do original só em `bwrap --unshare-net`, FS somente leitura, diretório descartável. Para a tela: DISPLAY do usuário, lista de órgãos injetada em memória (nenhuma conexão).

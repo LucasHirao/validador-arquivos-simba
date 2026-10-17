@@ -1,0 +1,2 @@
+Erro no arquivo: EXTRATO, linha: 2, erro: No arquivo CONTAS, se o campo MOVIMENTAÇÃO DA CONTA estiver com o parâmetro "3"(conta não investigada) não pode haver nenhum registro para essa conta no arquivo EXTRATO
+#CONTEUDO AGENCIAS=true,CONTAS=true,TITULARES=true,EXTRATO=false

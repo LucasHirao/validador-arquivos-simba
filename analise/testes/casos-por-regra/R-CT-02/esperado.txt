@@ -1,0 +1,5 @@
+Erro no arquivo: null, linha: 2, erro: Conta duplicada - Linha: 2, NUMERO_AGENCIA: 1, NUMERO_CONTA: 12345, TIPO_CONTA: 1
+Erro no arquivo: CONTAS, linha: 2, erro: Conta sem registro correspondente em Titulares. NUMERO_BANCO: 001, NUMERO_AGENCIA: 0001, NUMERO_CONTA: 12345, TIPO_CONTA: 1.
+Erro no arquivo: CONTAS, linha: 2, erro: Conta sem pessoa investigada. NUMERO_BANCO: 001, NUMERO_AGENCIA: 0001, NUMERO_CONTA: 12345, TIPO_CONTA: 1.
+Erro no arquivo: CONTAS, linha: 2, erro: Conta definida com movimentação (MOVIMENTACAO_CONTA = 1), porém não possui lançamentos em EXTRATO. NUMERO_BANCO: 001, NUMERO_AGENCIA: 0001, NUMERO_CONTA: 12345, TIPO_CONTA: 1.
+#CONTEUDO AGENCIAS=true,CONTAS=false

@@ -1,0 +1,2 @@
+Erro no arquivo: ORIGEM_DESTINO, linha: 2, erro: Tamanho do campo SITUACAO_IDENTIFICACAO excedido. Tamanho máximo permitido: 1
+#CONTEUDO null

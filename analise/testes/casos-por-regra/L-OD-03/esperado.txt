@@ -1,0 +1,2 @@
+Erro no arquivo: ORIGEM_DESTINO, linha: 1, erro: SITUACAO_IDENTIFICACAO inválido. Valor possível: 0.
+#CONTEUDO null

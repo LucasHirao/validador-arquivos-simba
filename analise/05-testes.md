@@ -44,3 +44,10 @@ Campos vazios; fora do formato; datas inválidas (bissexto, mês 13, ano < 1900)
 2. **Nível 2:** contexto Spring + HSQLDB em memória invocando `Carregar`/`ValidarAtendimento` sem a UI. Exige simular `Context`/`Configurador`; maior chance de acionar `Conexao`/`TestaConexao` — executar **sem rede** (`unshare -n`/VM isolada).
 3. **Nível 3:** aplicativo completo (GUI) em VM Linux/Windows isolada, sem rede e sem dados reais, usando `testes/casos/`.
 Em todos: ambiente descartável, sem rede, só dados de `testes/casos/`, nunca contra o módulo de transmissão.
+
+## Mapa de cobertura por regra (2026-10-17) — fecha D1/LAC-09 para regras com mensagem própria
+- Corpus de **2.940 cenários** (16 golden + 17 cobertura + 800 dirigidos + 2.100 aleatórios + 7 de lacuna) rodado no **original** (nível 2, `bwrap --unshare-net`) e na reimplementação COMPAT: **0 divergências reais** (28 só de ordem, R-OD-04).
+- **71 regras observadas** no original; um caso mínimo por regra em `testes/casos-por-regra/<ID>/` (esperado = saída do original; também executado como teste JUnit `GoldenCasosTest.casosPorRegraObservadosNoOriginal`, 32 testes no total).
+- O mapa revelou regras que o nível 2 nunca havia feito emitir (R-EX-03, E-02, L-AG-07, L-OD-00/E-13, E-07); `testes/gerar_lacunas.py` as cobre e o original confirmou.
+- **Locale `en_US`** (H8): 2.140 cenários, 0 divergências; 700 cenários comparados diretamente: saídas do original idênticas a `pt_BR`.
+- Detalhes e reprodução: `docs/MAPA_COBERTURA_REGRAS.md`. Ferramentas: `testes/diferencial/{MapaRegras.java,rodar_corpus.sh,cobertura_por_regra.py}`.

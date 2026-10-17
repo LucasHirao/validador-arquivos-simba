@@ -1,0 +1,2 @@
+Erro no arquivo: TITULARES, linha: 1, erro: Um dos campos obrigatórios (TIPO_PESSOA, CPF_CNPJ_PESSOA, NOME_PESSOA, PESSOA_INVESTIGADA, DATA_INICIO_RELACIONAMENTO) não está preenchido.
+#CONTEUDO null

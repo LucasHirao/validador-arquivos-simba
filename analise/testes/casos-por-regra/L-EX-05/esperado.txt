@@ -1,0 +1,2 @@
+Erro no arquivo: EXTRATO, linha: 1, erro: Natureza de saldo inválida. Valores possíveis: C e D.
+#CONTEUDO null

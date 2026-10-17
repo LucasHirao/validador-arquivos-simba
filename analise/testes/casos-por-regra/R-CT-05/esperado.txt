@@ -1,0 +1,3 @@
+Erro no arquivo: CONTAS, linha: 0, erro: Atendimento sem nenhuma movimentação de conta.
+Erro no arquivo: CONTAS, linha: 1, erro: Conta com atributo MOVIMENTACAO_CONTA incorreto. Deve ser 1 ou 2, pois é um investigado. NUMERO_BANCO: 001, NUMERO_AGENCIA: 0001, NUMERO_CONTA: 12345, TIPO_CONTA: 1.
+#CONTEUDO AGENCIAS=true,CONTAS=false

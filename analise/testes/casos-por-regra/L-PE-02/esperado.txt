@@ -1,0 +1,2 @@
+Erro no arquivo: EXTRATO, linha: 1, erro: A DATA_ATUALIZACAO_RENDA (01011899) é inválida ou o ano é anterior a 1900.
+#CONTEUDO null

@@ -1,0 +1,2 @@
+Erro no arquivo: TITULARES, linha: 1, erro: Tipo de titular inválido. Valores possíveis: T, 1 até 9, R, L, P e O.
+#CONTEUDO null

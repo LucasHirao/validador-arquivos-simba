@@ -1,0 +1,2 @@
+Erro no arquivo: EXTRATO, linha: 1, erro: VALOR_LANCAMENTO e VALOR_SALDO não podem ser negativos.
+#CONTEUDO null

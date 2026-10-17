@@ -1,0 +1,2 @@
+Erro no arquivo: CONTAS, linha: 1, erro: Conta definida com movimentação (MOVIMENTACAO_CONTA = 1), porém não possui lançamentos em EXTRATO. NUMERO_BANCO: 001, NUMERO_AGENCIA: 0001, NUMERO_CONTA: 12345, TIPO_CONTA: 1.
+#CONTEUDO AGENCIAS=true,CONTAS=false

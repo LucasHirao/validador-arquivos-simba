@@ -1,0 +1,2 @@
+Erro no arquivo: CONTAS, linha: 1, erro: A DATA_ENCERRAMENTO_CONTA (ab012000) é inválida ou o ano é anterior a 1900.
+#CONTEUDO null

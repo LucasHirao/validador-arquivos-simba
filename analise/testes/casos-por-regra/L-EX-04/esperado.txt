@@ -1,0 +1,2 @@
+Erro no arquivo: EXTRATO, linha: 1, erro: Natureza de Lancamento inválida. Valores possíveis: C, D e *(asterisco).
+#CONTEUDO null
