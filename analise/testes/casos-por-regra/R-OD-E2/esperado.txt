@@ -1,0 +1,2 @@
+Erro no arquivo: ORIGEM_DESTINO, linha: 1, erro: É OBRIGATÓRIA a identicação do depositante/favorecido de depósito em cheque e/ou dinheiro no campo CPF_CNPJ_OD.
+#CONTEUDO AGENCIAS=true,CONTAS=true,TITULARES=true,EXTRATO=true,ORIGEM_DESTINO=false

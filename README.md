@@ -15,7 +15,8 @@ Estudo técnico do **Validador Bancário SIMBA 6.2.6** (Ministério Público Fed
 |---|---|
 | `analise/` | Relatórios 01–07 e `progresso.md` (inventário, tecnologias, arquitetura, regras, testes, dúvidas, proposta) |
 | `analise/ferramentas/` | Leitor de container Inno Setup 6.5.0 (o `innoextract` não suporta 6.5) e extrator verificado por SHA-256 |
-| `analise/testes/` | Modelo de referência (Python), testes de caracterização, casos sintéticos, fuzzers e harnesses diferenciais (níveis 1–3, hash, GAB) |
+| `analise/testes/` | Modelo de referência (Python), testes de caracterização, casos sintéticos (`casos/` e `casos-por-regra/`, 1 caso mínimo por regra observada no original), fuzzers e harnesses diferenciais (níveis 1–3, hash, GAB, mapa de cobertura) |
+| `docs/` | Catálogo de regras (103), documentação funcional e técnica, mapa de cobertura por regra e relatórios de revisão |
 | `implementacao/validador-independente/` | Reimplementação em Java 21 (Maven): modos `compat` e `estrito`, fluxo bancário e GAB, limiares configuráveis |
 | `implementacao/limiares-6.2.6.properties` | Limiares/códigos das regras de ORIGEM_DESTINO (hard-coded no original) |
 

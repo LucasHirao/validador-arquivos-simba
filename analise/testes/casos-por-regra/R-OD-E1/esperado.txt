@@ -1,0 +1,2 @@
+Erro no arquivo: ORIGEM_DESTINO, linha: 3, erro: É OBRIGATÓRIA a identicação do depositante/favorecido de transferências no mesmo banco ou transferências interbancárias (TED/DOC) nos campos CPF_CNPJ_OD, NUMERO_BANCO_OD, NUMERO_AGENCIA_OD e NUMERO_CONTA_OD.
+#CONTEUDO AGENCIAS=true,CONTAS=true,TITULARES=true,EXTRATO=true,ORIGEM_DESTINO=false

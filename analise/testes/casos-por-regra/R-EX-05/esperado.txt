@@ -1,0 +1,2 @@
+Erro no arquivo: EXTRATO, linha: 1, erro: O Valor do lancamento em EXTRATO (CODIGO_CHAVE: 1) não é igual ao somatório dos registros correspondentes em ORIGEM_DESTINO.
+#CONTEUDO AGENCIAS=true,CONTAS=true,TITULARES=true,EXTRATO=false

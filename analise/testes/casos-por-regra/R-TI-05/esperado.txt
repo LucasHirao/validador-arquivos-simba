@@ -1,0 +1,2 @@
+Erro no arquivo: TITULARES, linha: 2, erro: O CPF_CNPJ 52998224725 cadastrado no atendimento como investigado, deve possuir o atributo PESSOA_INVESTIGADA = 1
+#CONTEUDO AGENCIAS=true,CONTAS=true,TITULARES=false

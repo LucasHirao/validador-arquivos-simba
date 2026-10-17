@@ -1,0 +1,2 @@
+Erro no arquivo: TITULARES, linha: 1, erro: Conta investigada sem Titular do tipo T. NUMERO_BANCO: 001, NUMERO_AGENCIA: 0001, NUMERO_CONTA: 12345, TIPO_CONTA: 1.
+#CONTEUDO AGENCIAS=true,CONTAS=true,TITULARES=false

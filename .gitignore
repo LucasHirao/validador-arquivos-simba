@@ -9,3 +9,6 @@ __pycache__/
 *.pyc
 *.class
 *.log
+
+# Exportações regeneráveis (docs/exportar.py)
+docs/export/

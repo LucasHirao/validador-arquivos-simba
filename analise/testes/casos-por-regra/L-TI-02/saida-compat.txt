@@ -1,0 +1,2 @@
+Erro no arquivo: 001-TST-000001-00_TITULARES.txt, linha: 1, erro: A DATA_INICIO_RELACIONAMENTO (ab012000) é inválida ou o ano é anterior a 1900.
+#CONTEUDO null

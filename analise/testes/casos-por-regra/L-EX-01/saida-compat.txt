@@ -1,0 +1,2 @@
+Erro no arquivo: EXTRATO, linha: 1, erro: Conta não localizada no arquivo de CONTAS.
+#CONTEUDO null

@@ -1,0 +1,2 @@
+Erro no arquivo: TITULARES, linha: 1, erro: Tipo de conta investigada inválido. Valores possíveis: 0 e 1.
+#CONTEUDO null

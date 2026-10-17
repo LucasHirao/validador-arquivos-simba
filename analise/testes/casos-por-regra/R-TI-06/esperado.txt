@@ -1,0 +1,2 @@
+Erro no arquivo: TITULARES, linha: 2, erro: O CPF_CNPJ 11222333000181 informado como PESSOA_INVESTIGADA = 1 não foi cadastrado no atendimento.
+#CONTEUDO AGENCIAS=true,CONTAS=true,TITULARES=false

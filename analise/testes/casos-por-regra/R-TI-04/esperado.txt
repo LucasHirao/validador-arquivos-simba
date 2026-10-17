@@ -1,0 +1,2 @@
+Erro no arquivo: TITULARES, linha: -1, erro: O CPF_CNPJ 11222333000181 cadastrado no atendimento como investigado, não foi encontrado no arquivo TITULARES como PESSOA_INVESTIGADA = 1
+#CONTEUDO AGENCIAS=true,CONTAS=true,TITULARES=false

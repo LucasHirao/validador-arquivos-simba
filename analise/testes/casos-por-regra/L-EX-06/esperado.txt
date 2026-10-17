@@ -1,0 +1,2 @@
+Erro no arquivo: EXTRATO, linha: 1, erro: TIPO_LANCAMENTO inválido para NATUREZA_LANCAMENTO='*'. Veja tabela CNAB-240.
+#CONTEUDO null

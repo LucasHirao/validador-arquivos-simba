@@ -1,0 +1,2 @@
+Erro no arquivo: CONTAS, linha: 1, erro: Movimentação de Conta inválido. Valores possíveis: 1, 2 e 3
+#CONTEUDO null
