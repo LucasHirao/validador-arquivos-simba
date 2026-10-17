@@ -1,0 +1,14 @@
+{
+ "caso": "001-TST-000001-00",
+ "eleitoral": false,
+ "fonte": "modelo de referencia (hipotese, nao confirmado por execucao)",
+ "conteudo": {
+  "AGENCIAS": true,
+  "CONTAS": true,
+  "TITULARES": true,
+  "EXTRATO": false
+ },
+ "erros": [
+  "Erro no arquivo: EXTRATO, linha: 1, erro: A DATA_LANCAMENTO (15/03/2005) está fora do período de DATA_ABERTURA_CONTA (01/01/2010) e sem DATA_ENCERRAMENTO_CONTA)."
+ ]
+}

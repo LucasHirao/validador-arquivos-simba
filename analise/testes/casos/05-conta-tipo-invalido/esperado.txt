@@ -1,0 +1,2 @@
+Erro no arquivo: CONTAS, linha: 1, erro: Tipo de conta inválido. Valores possíveis: 1, 2, 3 e 4.
+#CONTEUDO null

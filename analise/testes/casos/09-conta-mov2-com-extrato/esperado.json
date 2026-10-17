@@ -1,0 +1,12 @@
+{
+ "caso": "001-TST-000001-00",
+ "eleitoral": false,
+ "fonte": "modelo de referencia (hipotese, nao confirmado por execucao)",
+ "conteudo": {
+  "AGENCIAS": true,
+  "CONTAS": false
+ },
+ "erros": [
+  "Erro no arquivo: CONTAS, linha: 1, erro: Conta definida sem movimentação (MOVIMENTACAO_CONTA = 2), porém possui lançamentos em EXTRATO. NUMERO_BANCO: 001, NUMERO_AGENCIA: 0001, NUMERO_CONTA: 12345, TIPO_CONTA: 1."
+ ]
+}

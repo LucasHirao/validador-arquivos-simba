@@ -1,0 +1,3 @@
+Erro no arquivo: AGENCIAS, linha: 1, erro: Um dos campos obrigatórios (NUMERO_BANCO, NUMERO_AGENCIA, NOME_AGENCIA, ENDERECO_LOGRADOURO, ENDERECO_CIDADE, ENDERECO_UF, ENDERECO_PAIS, ENDERECO_CEP, TELEFONE_AGENCIA) não está preenchido.
+Erro no arquivo: 001-TST-000001-00_AGENCIAS.txt, linha: 1, erro: Erro desconhecido. Consulte o log do sistema.
+#CONTEUDO null

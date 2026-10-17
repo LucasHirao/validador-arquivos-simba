@@ -1,0 +1,10 @@
+{
+ "caso": "001-TST-000001-00",
+ "eleitoral": false,
+ "fonte": "modelo de referencia (hipotese, nao confirmado por execucao)",
+ "conteudo": null,
+ "erros": [
+  "Erro no arquivo: ORIGEM_DESTINO, linha: 1, erro: TIPO_CONTA_OD inválido. Valores possíveis: 1, 2, 3 ou 4.",
+  "Erro no arquivo: ORIGEM_DESTINO, linha: 1, erro: TIPO_PESSOA_OD inválido. Valores possíveis: 1 ou 2."
+ ]
+}

@@ -1,0 +1,15 @@
+{
+ "caso": "001-TST-000001-00",
+ "eleitoral": false,
+ "fonte": "modelo de referencia (hipotese, nao confirmado por execucao)",
+ "conteudo": {
+  "AGENCIAS": true,
+  "CONTAS": true,
+  "TITULARES": true,
+  "EXTRATO": true,
+  "ORIGEM_DESTINO": false
+ },
+ "erros": [
+  "Erro no arquivo: ORIGEM_DESTINO, linha: 1, erro: É OBRIGATÓRIA a identicação do depositante/favorecido de Transferências Interbancária (TED, DOC) nos campos CPF_CNPJ_OD, NOME_PESSOA_OD, NUMERO_BANCO_OD, NUMERO_AGENCIA_OD e NUMERO_CONTA_OD. Caso o depositante/favorecido não possua conta no banco, os campos NUMERO_AGENCIA_OD, NUMERO_CONTA_OD e OBSERVACAO_OD devem possuir, respectivamente, os seguintes valores: 9999, 99999999999999999999 e NAO-CORRENTISTA."
+ ]
+}

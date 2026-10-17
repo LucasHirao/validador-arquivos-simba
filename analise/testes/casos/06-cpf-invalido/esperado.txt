@@ -1,0 +1,2 @@
+Erro no arquivo: TITULARES, linha: 1, erro: O CPF_CNPJ_PESSOA: 52998224724 está inválido.
+#CONTEUDO null

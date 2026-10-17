@@ -1,0 +1,2 @@
+Erro no arquivo: EXTRATO, linha: 1, erro: A DATA_LANCAMENTO (15/03/2005) está fora do período de DATA_ABERTURA_CONTA (01/01/2010) e sem DATA_ENCERRAMENTO_CONTA).
+#CONTEUDO AGENCIAS=true,CONTAS=true,TITULARES=true,EXTRATO=false

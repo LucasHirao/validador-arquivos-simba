@@ -1,0 +1,11 @@
+# Artefatos de terceiros (MPF): NÃO redistribuir. Reproduza com os scripts de analise/ferramentas e os SHA-256 de analise/01-inventario.md
+original/
+# Saída literal do decompilador sobre código de terceiros (regenerável: ver analise/02-tecnologias.md)
+analise/decompilado/
+analise/decompilado-libs/
+# Build e caches
+implementacao/validador-independente/target/
+__pycache__/
+*.pyc
+*.class
+*.log

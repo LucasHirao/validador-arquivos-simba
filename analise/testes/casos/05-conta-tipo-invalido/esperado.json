@@ -1,0 +1,9 @@
+{
+ "caso": "001-TST-000001-00",
+ "eleitoral": false,
+ "fonte": "modelo de referencia (hipotese, nao confirmado por execucao)",
+ "conteudo": null,
+ "erros": [
+  "Erro no arquivo: CONTAS, linha: 1, erro: Tipo de conta inválido. Valores possíveis: 1, 2, 3 e 4."
+ ]
+}

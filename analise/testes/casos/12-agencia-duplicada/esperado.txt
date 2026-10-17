@@ -1,0 +1,2 @@
+Erro no arquivo: AGENCIAS, linha: 2, erro: Agência duplicada: NUMERO_BANCO: 001, NUMERO_AGENCIA: 0001
+#CONTEUDO AGENCIAS=false
